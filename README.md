@@ -15,7 +15,7 @@ python server-config.py --help
 python server-config.py --arkouda=$HOME/projects/arkouda
 
 # Sample execution
-python server-config.py --arkouda=$HOME/project/arkouda | bash
+python server-config.py --arkouda=$HOME/projects/arkouda | bash
 ```
 
 ## Client code
